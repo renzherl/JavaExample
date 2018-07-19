@@ -1,3 +1,5 @@
+package SocketExample;
+
 import java.io.*;
 import java.net.Socket;
 
